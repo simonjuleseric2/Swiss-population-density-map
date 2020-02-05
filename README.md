@@ -4,5 +4,15 @@ A simple and short jupyter notebook to create a population density map with shap
 This data is available online (https://www.swisstopo.admin.ch) or in this repository.
 
 
+Population map density from every region:
+
 
 ![](swiss_map.png)
+
+
+
+
+Population dot-map (every dot represent 1000 person):
+
+
+![](swiss_dot_map.png)
