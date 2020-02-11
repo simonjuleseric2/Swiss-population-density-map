@@ -12,7 +12,7 @@ Population map density from every region:
 
 
 
-Population dot-map (every dot represent 1000 person):
+Population dot-map (every dot represent 1000 people):
 
 
 ![](swiss_dot_map.png)
